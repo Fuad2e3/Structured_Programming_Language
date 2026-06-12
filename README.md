@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <b>The Ultimate AI-Powered Smart Gardening Ecosystem</b><br>
-  <i>Empowering gardeners with cutting-edge AI, a thriving marketplace, and a global community.</i>
+  <b>Simple & Efficient Student Record Management</b><br>
+  <i>A robust C-based terminal application for managing educational records with ease.</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-green" alt="Platform">
-  <img src="https://img.shields.io/badge/Language-Java-orange" alt="Language">
-  <img src="https://img.shields.io/badge/Backend-Firebase-yellow" alt="Backend">
-  <img src="https://img.shields.io/badge/AI-Gemini-blue" alt="AI">
+  <img src="https://img.shields.io/badge/Language-C-blue" alt="Language">
+  <img src="https://img.shields.io/badge/Platform-Terminal-black" alt="Platform">
+  <img src="https://img.shields.io/badge/Compiler-GCC-green" alt="Compiler">
+  <img src="https://img.shields.io/badge/Database-Local_File-orange" alt="Database">
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
 </p>
 
