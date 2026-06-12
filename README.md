@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Compiler-GCC-green" alt="Compiler">
   <img src="https://img.shields.io/badge/Database-Local_File-orange" alt="Database">
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
+  
 **A robust C-based terminal application for managing educational records with ease.**
 
 </div>
