@@ -1,7 +1,6 @@
-# Student Management System
 
 <p align="center">
-  <img src="https://i.ibb.co/L6D9p7p/banner.png" alt="Student Management System Banner">
+# Student Management System
 </p>
 
 <p align="center">
