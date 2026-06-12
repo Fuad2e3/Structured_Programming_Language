@@ -1,0 +1,63 @@
+# Student Management System
+
+<p align="center">
+  <img src="https://i.ibb.co/L6D9p7p/banner.png" alt="Student Management System Banner">
+</p>
+
+<p align="center">
+  <b>The Ultimate AI-Powered Smart Gardening Ecosystem</b><br>
+  <i>Empowering gardeners with cutting-edge AI, a thriving marketplace, and a global community.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-green" alt="Platform">
+  <img src="https://img.shields.io/badge/Language-Java-orange" alt="Language">
+  <img src="https://img.shields.io/badge/Backend-Firebase-yellow" alt="Backend">
+  <img src="https://img.shields.io/badge/AI-Gemini-blue" alt="AI">
+  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
+</p>
+
+---
+
+## 📌 Project Overview
+
+The **Student Management System** is a robust terminal-based application developed in **C Language**. It is designed to help educational institutions efficiently manage student records, including personal details, academic performance (CGPA), and departmental information.
+
+## 🚀 Key Features
+
+- **Add Student:** Quickly register new students into the system.
+- **Show All Students:** View a comprehensive list of all enrolled students.
+- **Search by ID:** Instantly find specific student details using their unique ID.
+- **Update Details:** Modify existing student information with ease.
+- **Delete Record:** Remove student data when no longer needed.
+- **About Us:** Information about the development team.
+
+## 🛠️ Tech Stack
+
+- **Language:** C
+- **Compiler:** GCC (or any standard C compiler)
+- **File System:** Local text file (`record.txt`) for persistent data storage.
+
+## 📥 Installation & Usage
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/fuadk/Structured_Programming_Language.git
+    ```
+2.  **Compile the source code:**
+    ```bash
+    gcc src/main.c -o sms
+    ```
+3.  **Run the application:**
+    ```bash
+    ./sms
+    ```
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<p align="center">
+  Developed with ❤️ by <b>Team Softece</b><br>
+  <i>Structured Programming Language | Green University of Bangladesh</i>
+</p>
