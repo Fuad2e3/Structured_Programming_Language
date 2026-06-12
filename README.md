@@ -1,20 +1,16 @@
+<div align="center">
 
-<p align="center">
-# Student Management System
-</p>
+# 🛡️ Student Management System
+### Simple & Efficient Student Record Management
 
-<p align="center">
-  <b>Simple & Efficient Student Record Management</b><br>
-  <i>A robust C-based terminal application for managing educational records with ease.</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue" alt="Language">
+<img src="https://img.shields.io/badge/Language-C-blue" alt="Language">
   <img src="https://img.shields.io/badge/Platform-Terminal-black" alt="Platform">
   <img src="https://img.shields.io/badge/Compiler-GCC-green" alt="Compiler">
   <img src="https://img.shields.io/badge/Database-Local_File-orange" alt="Database">
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
-</p>
+**A robust C-based terminal application for managing educational records with ease.**
+
+</div>
 
 ---
 
