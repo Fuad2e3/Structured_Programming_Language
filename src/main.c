@@ -275,12 +275,8 @@ void deleteStudent()
 
 void aboutUs()
 {
-     struct Student nazmul, fuad;
+     struct Student fuad;
      system("cls");
-
-     strcpy(nazmul.name, "Md. Nazmul Hossain");
-     strcpy(nazmul.id,        "223002089");
-     strcpy(nazmul.department, "CSE");
 
      strcpy(fuad.name, "Abdullah Al  Fuad");
      strcpy(fuad.id,  "223002080");
@@ -290,7 +286,6 @@ void aboutUs()
      printf("\t-----------------------------\n");
      printf("\n\tName\t\t\t  ID\t\t\tDepartment\t\n");
      printf("==================================================================\n");
-     printf("\n%s\t\t%s\t\t%s\n\n", nazmul.name, nazmul.id, nazmul.department);
      printf("%s\t\t%s\t\t%s\n\n", fuad.name, fuad.id, fuad.department);
 
      printf("\n\n\n\nPress any Key to Continue.");
