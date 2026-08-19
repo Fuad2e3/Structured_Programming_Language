@@ -54,6 +54,6 @@ The **Student Management System** is a robust terminal-based application develop
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="center">
-  Developed with ❤️ by <b>Team Softece</b><br>
+  Developed with ❤️ by <b>Fuad</b><br>
   <i>Structured Programming Language | Green University of Bangladesh</i>
 </p>
