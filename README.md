@@ -1,59 +1,78 @@
 <div align="center">
 
-# 🛡️ Student Management System
-### Simple & Efficient Student Record Management
+# 🎓 Student Management System (C-Language)
+### **Simple & Efficient Student Record Management in Pure C**
 
-<img src="https://img.shields.io/badge/Language-C-blue" alt="Language">
-  <img src="https://img.shields.io/badge/Platform-Terminal-black" alt="Platform">
-  <img src="https://img.shields.io/badge/Compiler-GCC-green" alt="Compiler">
-  <img src="https://img.shields.io/badge/Database-Local_File-orange" alt="Database">
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
-  
-**A robust C-based terminal application for managing educational records with ease.**
+[![Language](https://img.shields.io/badge/Language-C99-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Platform](https://img.shields.io/badge/Platform-Terminal_CLI-black?style=for-the-badge)](https://en.wikipedia.org/wiki/Command-line_interface)
+[![Compiler](https://img.shields.io/badge/Compiler-GCC-green?style=for-the-badge&logo=gnu&logoColor=white)](https://gcc.gnu.org)
+[![Storage](https://img.shields.io/badge/Storage-Local_File_System-orange?style=for-the-badge)](record.txt)
+[![Course](https://img.shields.io/badge/Course-Structured_Programming-8E75FF?style=for-the-badge)](https://green.edu.bd)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+
+**A robust C-based terminal application for managing academic records, student profiles, and persistent disk files.**
+
+---
+
+[Explore Features](#-key-features) • [Tech Stack](#-tech-stack) • [Installation & Usage](#-installation--usage) • [License](#-license)
 
 </div>
 
 ---
 
 ## 📌 Project Overview
+The **Student Management System** is a foundational terminal application developed in **C** as part of the Structured Programming Language course at **Green University of Bangladesh**. It demonstrates structured procedural programming, pointer arithmetic, memory structs, and low-level file I/O operations (`fopen`, `fread`, `fwrite`, `fclose`) using flat text databases.
 
-The **Student Management System** is a robust terminal-based application developed in **C Language**. It is designed to help educational institutions efficiently manage student records, including personal details, academic performance (CGPA), and departmental information.
+---
 
 ## 🚀 Key Features
 
-- **Add Student:** Quickly register new students into the system.
-- **Show All Students:** View a comprehensive list of all enrolled students.
-- **Search by ID:** Instantly find specific student details using their unique ID.
-- **Update Details:** Modify existing student information with ease.
-- **Delete Record:** Remove student data when no longer needed.
-- **About Us:** Information about the development team.
+- ➕ **Add Student:** Register students with Name, Unique Roll ID, Department, and CGPA metrics.
+- 📋 **Show All Students:** Formatted tabular view displaying all enrolled academic records.
+- 🔍 **Search by ID:** Fast linear search parsing `record.txt` by student identifier.
+- ✏️ **Update Details:** Modify department or GPA fields with in-memory validation.
+- 🗑️ **Delete Record:** Safe disk record deletion using temporary file swapping techniques.
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Language:** C
-- **Compiler:** GCC (or any standard C compiler)
-- **File System:** Local text file (`record.txt`) for persistent data storage.
+| Layer | Technology | Purpose |
+| :--- | :--- | :--- |
+| **Language** | C (C99 Standard) | Core procedural logic & pointer manipulation |
+| **Compiler** | GCC / Clang | High-performance machine code compilation |
+| **Persistence** | Flat File (`record.txt`) | File stream persistence without database servers |
+| **Interface** | ANSI Terminal Console | Low-overhead text user interface |
+
+---
 
 ## 📥 Installation & Usage
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/fuadk/Structured_Programming_Language.git
-    ```
-2.  **Compile the source code:**
-    ```bash
-    gcc src/main.c -o sms
-    ```
-3.  **Run the application:**
-    ```bash
-    ./sms
-    ```
+### 1. Clone the repository
+```bash
+git clone https://github.com/fuadk/Structured_Programming_Language.git
+cd Structured_Programming_Language
+```
+
+### 2. Compile with GCC
+```bash
+gcc src/main.c -o sms
+```
+
+### 3. Run Application
+```bash
+./sms
+```
+
+---
 
 ## 📄 License
-
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<p align="center">
-  Developed with ❤️ by <b>Fuad</b><br>
-  <i>Structured Programming Language | Green University of Bangladesh</i>
-</p>
+<div align="center">
+
+**Developed with ❤️ by Fuad**  
+*Developed by Softece*  
+*Structured Programming Language | Green University of Bangladesh*
+
+</div>
