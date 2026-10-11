@@ -14,7 +14,7 @@
 
 ---
 
-[Explore Features](#-key-features) • [Tech Stack](#-tech-stack) • [Installation & Usage](#-installation--usage) • [License](#-license)
+[Explore Features](#-key-features) • [Tech Stack](#-tech-stack) • [License](#-license)
 
 </div>
 
@@ -46,33 +46,11 @@ The **Student Management System** is a foundational terminal application develop
 
 ---
 
-## 📥 Installation & Usage
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/fuadk/Structured_Programming_Language.git
-cd Structured_Programming_Language
-```
-
-### 2. Compile with GCC
-```bash
-gcc src/main.c -o sms
-```
-
-### 3. Run Application
-```bash
-./sms
-```
-
----
-
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-**Developed with ❤️ by Fuad**  
-*Developed by Softece*  
-*Structured Programming Language | Green University of Bangladesh*
+**Developed ❤️ by Softece**
 
 </div>
